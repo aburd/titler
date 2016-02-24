@@ -1,7 +1,7 @@
 require the file then instantiate the variable to use it.
 
-name( title, exceptions )
-where
+name( title, exceptions )<br>
+where<br>
 'name' is the var name used with require<br>
 'title' (str) - Name of the title<br>
 'exceptions' (str) - List of exceptions separated by spaces<br>
